@@ -1,0 +1,9 @@
+local AkaliNotif = loadstring(game:HttpGet("rawscriptlinktothefile"))();
+
+local Notify = AkaliNotif.Notify;
+
+Notify({
+    Description = "  DESCRIPTION BLA BLA BLA  ";
+    Title = " TITLE BLA BLA BLA";
+    Duration = 5;
+    });
